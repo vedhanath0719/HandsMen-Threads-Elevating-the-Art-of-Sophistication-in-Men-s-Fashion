@@ -90,11 +90,13 @@ HandsMen Threads CRM provides a powerful, automated platform that elevates opera
 
 ---
 
-### 👨‍💻 Developer & Contact  
-**Name**: Vedhanath Reddy M
-**Email**: 224g1a32b0@srit.ac.in  
-**Role**: Salesforce Developer  
-**Project Status**: ✅ Completed
+| **Field**          | **Details**                                           |
+| ------------------ | ----------------------------------------------------- |
+| **Name**           | Vedhanath Reddy M                                     |
+| **Email**          | [224g1a32b0@srit.ac.in](mailto:224g1a32b0@srit.ac.in) |
+| **Role**           | Salesforce Developer                                  |
+| **Project Status** | ✅ Completed                                           |
+
 
 
 

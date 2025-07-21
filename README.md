@@ -82,7 +82,6 @@
 ## 🚀 Deployment & Versioning
 
 - Managed via Salesforce CLI + SFDX
-- Git-based version control for metadata, screenshots, test classes
 
 ---
 

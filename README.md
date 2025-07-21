@@ -89,7 +89,7 @@
 HandsMen Threads CRM provides a powerful, automated platform that elevates operational excellence for luxury fashion. Built with scalability, automation, and user experience at its core, it sets a benchmark for digital transformation in the retail space.
 
 ---
-
+👨‍💻 Developer & Contact
 | **Field**          | **Details**                                           |
 | ------------------ | ----------------------------------------------------- |
 | **Name**           | Vedhanath Reddy M                                     |

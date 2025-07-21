@@ -86,5 +86,9 @@
 
 ---
 
-## 📁 Repository Structure
+### 👨‍💻 Developer & Contact  
+**Name**: Vedhanath Reddy M
+**Email**: 224g1a32b0@srit.ac.in  
+**Role**: Salesforce Developer  
+**Project Status**: ✅ Completed  
 

@@ -34,13 +34,13 @@
 
 ## 🧾 Fields Summary
 
-| Object                | Key Fields                                                                 |
-|-----------------------|----------------------------------------------------------------------------|
-| HandsMen Customer     | Name, Email, Phone, Loyalty_Status__c, Preferred_Style__c                  |
-| HandsMen Order        | Order_Date__c, Product__c, Quantity__c, Total_Amount__c, Order_Status__c    |
-| HandsMen Product      | Product_Name__c, Fabric_Type__c, Price__c, Size__c, Availability_Status__c  |
-| Inventory             | Product__c, Stock_Quantity__c, Stock_Status__c, Warehouse_Location__c       |
-| Marketing_Campaign    | Campaign_Name__c, Start_Date__c, End_Date__c, Target_Audience__c, Campaign_Type__c |
+| **Object**             | **Key Fields**                                                                                                                          |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **HandsMen Customer**  | Name (Record Name), Email (Email), Phone (Phone), Loyalty\_Status\_\_c (Picklist: Bronze, Gold, Silver), Total\_Purchases\_\_c (Number) |
+| **HandsMen Product**   | Name (Record Name), SKU (Text), Price (Currency), Stock\_Quantity\_\_c (Number)                                                         |
+| **HandsMen Order**     | Order\_Number (Record Name), Status (Picklist: Pending, Confirmed, Rejection), Quantity\_\_c (Number), Total\_Amount\_\_c (Number)      |
+| **Inventory**          | Auto Number (Record Name), Warehouse (Text), Stock\_Quantity\_\_c (Number)                                                              |
+| **Marketing Campaign** | Campaign\_Name (Record Name), Start\_Date (Date), End\_Date (Date)                                                                      |
 
 ---
 
